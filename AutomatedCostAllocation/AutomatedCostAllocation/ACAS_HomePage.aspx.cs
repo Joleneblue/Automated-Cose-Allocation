@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace AutomatedCostAllocation
 {
-    public partial class Test : System.Web.UI.Page
+    public partial class ACAS_HomePage : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
