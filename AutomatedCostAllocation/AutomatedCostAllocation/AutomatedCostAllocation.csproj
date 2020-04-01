@@ -82,6 +82,8 @@
   <ItemGroup>
     <Content Include="ACAS_HomePage.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Images\PwC_Funct_Icons_MenuView_Fill_Black_RGB.png" />
+    <Content Include="Images\pwc_logo.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -99,6 +101,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ACASsite.master" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
