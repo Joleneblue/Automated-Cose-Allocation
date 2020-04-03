@@ -10,6 +10,6 @@
 namespace AutomatedCostAllocation {
     
     
-    public partial class ACAS_HomePage {
+    public partial class ACAS_Setup {
     }
 }
